@@ -1,0 +1,16 @@
+{
+  "name": "evaluacion-modulo4-avanzada",
+  "version": "1.0.0",
+  "description": "API de clientes para Café y Aroma",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
